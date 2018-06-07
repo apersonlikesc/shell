@@ -1,0 +1,8 @@
+#!/bin/bash
+
+test_platform()
+{
+
+    name=`uname -a`
+    return 0
+}
